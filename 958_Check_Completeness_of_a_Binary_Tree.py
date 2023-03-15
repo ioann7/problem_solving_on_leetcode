@@ -2,6 +2,7 @@
 
 
 from typing import List, Optional
+from collections import deque
 
 
 class TreeNode:
@@ -25,4 +26,20 @@ class Solution:
         self.save_root_numbers(root, 1, result)
         if max(result) > len(result):
             return False
+        return True
+
+
+class Solution2:
+    def isCompleteTree(self, root: Optional[TreeNode]) -> bool:
+        double_ended_queue = deque((root,))
+        is_end = False
+        while double_ended_queue:
+            node = double_ended_queue.popleft()
+            if not node:
+                is_end = True
+            elif is_end:
+                return False
+            else:
+                double_ended_queue.append(node.left)
+                double_ended_queue.append(node.right)
         return True
