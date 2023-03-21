@@ -2,11 +2,13 @@
 ## First step for do this is be selected for the [Yandex Academy](https://academy.yandex.ru/schools/backend?utm_medium=indiv_mail&utm_source=fut&utm_campaign=292812618&utm_content=2023-03-16%2014%3A00%3A00)
 
 - Deadline: 20 April 2023 because April 27 is the last day for accepting applications for studying at the academy
+- [ ] Solve Blind 75 exercises from [NeetCode practice](https://neetcode.io/practice) (Main task)
+- [ ] Solve LeetCode exercises [Top 20-30 Yandex questions](https://github.com/ioann7/problem_solving_on_leetcode/blob/main/yandex_questions/solved_questions.md)
 - [ ] Read book "Грокаем алгоритмы"
   - [x] 1 Знакомство с алгоритмами
-  - [ ] 2 Сортировка выбором 
-  - [ ] 3 Рекурсия 
-  - [ ] 4 Быстрая сортировка 
+  - [x] 2 Сортировка выбором 
+  - [x] 3 Рекурсия 
+  - [x] 4 Быстрая сортировка 
   - [ ] 5 Хеш-таблицы
   - [ ] 6 Поиск в ширину
   - [ ] 7 Алгоритм Дейкстры
@@ -14,9 +16,9 @@
   - [ ] 9 Динамическое программирование 
   - [ ] 10 Алгоритм k ближайших соседей
   - [ ] 11 Что дальше?
-- [ ] NeetCode videos
-  - [ ] ARRAYS
-  - [ ] LINKED LISTS
+- [ ] Watch and solve NeetCode `Algorithms & Data Structures for Beginners`
+  - [x] ARRAYS
+  - [x] LINKED LISTS
   - [ ] RECURSION
   - [ ] SORTING
   - [ ] BINARY SEARCH
@@ -27,4 +29,28 @@
   - [ ] GRAPHS
   - [ ] DYNAMIC PROGRAMMING
   - [ ] BIT MANIPULATION
-- [ ] Solve Blind 75 exercises from [NeetCode practice](https://neetcode.io/practice)
+- [ ] Watch [Lections about algorithms from yandex](https://yandex.ru/yaintern/algorithm-training_1) (На некоторые лекции я уже решал задачи, но всё же предпочту решать на leetcode, потому что хочется показывать в резюме, что я действительно много нарешал задач. Возможно через время я дорешаю эти задачи)
+  - [x] Лекция 1: «Сложность, тестирование, особые случаи»
+  - [x] Лекция 2: «Линейный поиск»
+  - [x] Лекция 3: «Множества»
+  - [x] Лекция 4: «Словари и сортировка подсчётом
+  - [x] Лекция 5: «Префиксные суммы и два указателя»
+  - [ ] Лекция 6: «Бинарный поиск»
+  - [ ] Лекция 7: «Сортировка событий»
+  - [ ] Лекция 8: «Деревья»
+  - [ ] 3.0. Лекция 1: «Стеки»
+  - [ ] 3.0. Лекция 2: «Очереди, деки и приоритетные очереди»
+  - [ ] 3.0. Лекция 3: «Динамическое программирование с одним параметром»
+  - [ ] 3.0. Лекция 4: «Динамическое программирование с двумя параметрами»
+  - [ ] 3.0. Лекция 5: «Обход графов в глубину»
+  - [ ] 3.0. Лекция 6: «Обход графов в ширину»
+- If i'll have more time
+- [ ] Watch and add in Anki NeetCode `System Design for Beginners`
+- [ ] Watch and solve NeetCode `Advanced algorithms`
+  - [ ] Arrays
+  - [ ] Linked Lists
+  - [ ] Tries
+  - [ ] Heaps
+  - [ ] Backtracking
+  - [ ] Graphs
+  - [ ] Dynamic Programming
