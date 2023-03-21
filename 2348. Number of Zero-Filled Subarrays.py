@@ -25,5 +25,5 @@ class Solution:
         for index in range(len(nums)):
             if nums[index] != 0:
                 start_zeros = index + 1
-            result += right - left + 1
+            result += index - start_zeros + 1
         return result
