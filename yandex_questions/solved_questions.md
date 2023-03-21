@@ -2,6 +2,7 @@ Here is 2 months ago:
 ![image](https://user-images.githubusercontent.com/102480321/226184038-2dfbc4f3-e21b-439c-882d-e65cf95a37c7.png)
 - [ ] LRU Cache
 - [x] Summary Ranges
+- [x] Maximize Distance to Closest Person
 - [x] Reverse Linked List
 - [ ] Valid Palindrome
 - [ ] Generate Parentheses
