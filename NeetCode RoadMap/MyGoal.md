@@ -19,7 +19,7 @@
 - [ ] Watch and solve NeetCode `Algorithms & Data Structures for Beginners`
   - [x] ARRAYS
   - [x] LINKED LISTS
-  - [ ] RECURSION
+  - [x] RECURSION
   - [ ] SORTING
   - [ ] BINARY SEARCH
   - [ ] TREES
@@ -48,7 +48,7 @@
 - [ ] Watch and add in Anki NeetCode `System Design for Beginners`
 - [ ] Watch and solve NeetCode `Advanced algorithms`
   - [ ] Arrays
-  - [ ] Linked Lists
+  - [x] Linked Lists
   - [ ] Tries
   - [ ] Heaps
   - [ ] Backtracking
