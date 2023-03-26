@@ -16,6 +16,9 @@
   - [ ] 9 Динамическое программирование 
   - [ ] 10 Алгоритм k ближайших соседей
   - [ ] 11 Что дальше?
+- [ ] Watch and solve NeetCode full course [Dynamic Programming 1D - Full Course - Python](https://youtu.be/_i4Yxeh5ceQ)
+- [ ] Watch and solve NeetCode full course [Dynamic Programming 2D - Full Course - Python](https://youtu.be/qMky6D6YtXU)
+- [ ] Watch and repeat your knowledges NeetCode [Python for Coding Interviews](https://youtu.be/0K_eZGS5NsU)
 - [ ] Watch and solve NeetCode `Algorithms & Data Structures for Beginners`
   - [x] ARRAYS
   - [x] LINKED LISTS
