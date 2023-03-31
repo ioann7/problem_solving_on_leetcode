@@ -24,7 +24,7 @@
   - [x] LINKED LISTS
   - [x] RECURSION
   - [ ] SORTING
-  - [ ] BINARY SEARCH
+  - [x] BINARY SEARCH
   - [ ] TREES
   - [ ] BACKTRACKING
   - [ ] HEAP PRIORITY  QUEUE
