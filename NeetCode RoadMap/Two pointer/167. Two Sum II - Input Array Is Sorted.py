@@ -1,0 +1,18 @@
+# https://leetcode.com/problems/two-sum-ii-input-array-is-sorted
+
+from typing import List
+
+
+# Time complexity O(n). Space complexity O(1).
+class Solution:
+    def twoSum(self, numbers: List[int], target: int) -> List[int]:
+        left = 0
+        right = len(numbers) - 1
+        while left < right:
+            value = numbers[left] + numbers[right]
+            if value == target:
+                return [left + 1, right + 1]
+            elif value < target:
+                left += 1
+            else:
+                right -= 1
