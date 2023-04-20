@@ -26,8 +26,5 @@ class Solution:
                     lmr(node.right, 'right', 1)
             result = max(result, zigzag_length)
 
-        if root.left:
-            lmr(root.left, 'left', 1)
-        if root.right:
-            lmr(root.right, 'right', 1)
+        lmr(root, '', 0)
         return result
