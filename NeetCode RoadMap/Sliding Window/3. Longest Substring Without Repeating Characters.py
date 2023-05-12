@@ -20,3 +20,18 @@ class Solution:
                 max_unique = max(max_unique, len(current_substring_set))
                 right += 1
         return max_unique
+
+
+# less code. time and space complexity the same.
+class Solution:
+    def lengthOfLongestSubstring(self, s: str) -> int:
+        current_substring_set = set()
+        left = 0
+        result = 0
+        for right in range(len(s)):
+            while s[right] in current_substring_set:
+                current_substring_set.remove(s[left])
+                left += 1
+            current_substring_set.add(s[right])
+            result = max(result, right - left + 1)
+        return result
