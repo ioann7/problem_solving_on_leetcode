@@ -1,6 +1,6 @@
 # https://leetcode.com/problems/longest-palindromic-substring/
 
-# Time and space complexity O(n^2).
+# Time complexity O(n^2). Space complexity O(1).
 class Solution:
     def longestPalindrome(self, s: str) -> str:
         result = (0, 0) # (left, right)
