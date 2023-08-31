@@ -1,5 +1,5 @@
-- [ ] 2657 Find the Prefix Common Array of Two Arrays           | 81.4%  | Medium |
-- [ ] 2636 Promise Pool                                         | 81.1%  | Medium |
+- [x] 2657 Find the Prefix Common Array of Two Arrays           | 81.4%  | Medium |
+- [x] 2636 Promise Pool                                         | 81.1%  | Medium |
 - [ ] 763 Partition Labels                                      | 79.8%  | Medium |
 - [ ] 2215 Find the Difference of Two Arrays                    | 78.3%  | Easy   |
 - [ ] 657 Robot Return to Origin                                | 75.4%  | Easy   |
