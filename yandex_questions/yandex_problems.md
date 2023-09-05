@@ -1,58 +1,58 @@
 - [x] 2657 Find the Prefix Common Array of Two Arrays           | 81.4%  | Medium |
 - [x] 2636 Promise Pool                                         | 81.1%  | Medium |
-- [ ] 763 Partition Labels                                      | 79.8%  | Medium |
-- [ ] 2215 Find the Difference of Two Arrays                    | 78.3%  | Easy   |
+- [x] 763 Partition Labels                                      | 79.8%  | Medium |
+- [x] 2215 Find the Difference of Two Arrays                    | 78.3%  | Easy   |
 - [ ] 657 Robot Return to Origin                                | 75.4%  | Easy   |
-- [ ] 206 Reverse Linked List                                   | 74.4%  | Easy   |
-- [ ] 104 Maximum Depth of Binary Tree                          | 74.3%  | Easy   |
-- [ ] 977 Squares of a Sorted Array                             | 71.8%  | Easy   |
+- [x] 206 Reverse Linked List                                   | 74.4%  | Easy   |
+- [x] 104 Maximum Depth of Binary Tree                          | 74.3%  | Easy   |
+- [x] 977 Squares of a Sorted Array                             | 71.8%  | Easy   |
 - [ ] 362 Design Hit Counter                                    | 68.4%  | Medium |
 - [ ] 2625 Flatten Deeply Nested Array                          | 67.5%  | Medium |
-- [ ] 1493 Longest Subarray of 1's After Deleting One Element   | 66.2%  | Medium |
-- [ ] 238 Product of Array Except Self                          | 65.1%  | Medium |
-- [ ] 347 Top K Frequent Elements                               | 63.5%  | Medium |
-- [ ] 242 Valid Anagram                                         | 63.1%  | Easy   |
-- [ ] 283 Move Zeroes                                           | 61.4%  | Easy   |
-- [ ] 42 Trapping Rain Water                                    | 59.6%  | Hard   |
-- [ ] 200 Number of Islands                                     | 57.5%  | Medium |
-- [ ] 692 Top K Frequent Words                                  | 57.4%  | Medium |
-- [ ] 485 Max Consecutive Ones                                  | 57.3%  | Easy   |
-- [ ] 350 Intersection of Two Arrays II                         | 56.1%  | Easy   |
-- [ ] 101 Symmetric Tree                                        | 54.9%  | Easy   |
-- [ ] 27 Remove Element                                         | 54.0%  | Easy   |
-- [ ] 121 Best Time to Buy and Sell Stock                       | 53.8%  | Easy   |
-- [ ] 300 Longest Increasing Subsequence                        | 52.9%  | Medium |
-- [ ] 380 Insert Delete GetRandom O(1)                          | 52.8%  | Medium |
-- [ ] 443 String Compression                                    | 52.8%  | Medium |
-- [ ] 155 Min Stack                                             | 52.8%  | Medium |
+- [x] 1493 Longest Subarray of 1's After Deleting One Element   | 66.2%  | Medium |
+- [x] 238 Product of Array Except Self                          | 65.1%  | Medium |
+- [x] 347 Top K Frequent Elements                               | 63.5%  | Medium |
+- [x] 242 Valid Anagram                                         | 63.1%  | Easy   |
+- [x] 283 Move Zeroes                                           | 61.4%  | Easy   |
+- [x] 42 Trapping Rain Water                                    | 59.6%  | Hard   |
+- [x] 200 Number of Islands                                     | 57.5%  | Medium |
+- [x] 692 Top K Frequent Words                                  | 57.4%  | Medium |
+- [x] 485 Max Consecutive Ones                                  | 57.3%  | Easy   |
+- [x] 350 Intersection of Two Arrays II                         | 56.1%  | Easy   |
+- [x] 101 Symmetric Tree                                        | 54.9%  | Easy   |
+- [x] 27 Remove Element                                         | 54.0%  | Easy   |
+- [x] 121 Best Time to Buy and Sell Stock                       | 53.8%  | Easy   |
+- [x] 300 Longest Increasing Subsequence                        | 52.9%  | Medium |
+- [x] 380 Insert Delete GetRandom O(1)                          | 52.8%  | Medium |
+- [x] 443 String Compression                                    | 52.8%  | Medium |
+- [x] 155 Min Stack                                             | 52.8%  | Medium |
 - [ ] 234 Palindrome Linked List                                | 50.7%  | Easy   |
-- [ ] 438 Find All Anagrams in a String                         | 50.3%  | Medium |
-- [ ] 1 Two Sum                                                 | 50.3%  | Easy   |
+- [x] 438 Find All Anagrams in a String                         | 50.3%  | Medium |
+- [x] 1 Two Sum                                                 | 50.3%  | Easy   |
 - [ ] 487 Max Consecutive Ones II                               | 49.8%  | Medium |
-- [ ] 228 Summary Ranges                                        | 49.3%  | Easy   |
+- [x] 228 Summary Ranges                                        | 49.3%  | Easy   |
 - [ ] 340 Longest Substring with At Most K Distinct Characters  | 48.3%  | Medium |
-- [ ] 849 Maximize Distance to Closest Person                   | 47.7%  | Medium |
+- [x] 849 Maximize Distance to Closest Person                   | 47.7%  | Medium |
 - [ ] 301 Remove Invalid Parentheses                            | 47.2%  | Hard   |
-- [ ] 150 Evaluate Reverse Polish Notation                      | 47.0%  | Medium |
-- [ ] 658 Find K Closest Elements                               | 46.9%  | Medium |
+- [x] 150 Evaluate Reverse Polish Notation                      | 47.0%  | Medium |
+- [x] 658 Find K Closest Elements                               | 46.9%  | Medium |
 - [ ] 56 Merge Intervals                                        | 46.4%  | Medium |
-- [ ] 239 Sliding Window Maximum                                | 46.1%  | Hard   |
-- [ ] 125 Valid Palindrome                                      | 45.2%  | Easy   |
+- [x] 239 Sliding Window Maximum                                | 46.1%  | Hard   |
+- [x] 125 Valid Palindrome                                      | 45.2%  | Easy   |
 - [ ] 567 Permutation in String                                 | 44.2%  | Medium |
-- [ ] 560 Subarray Sum Equals K                                 | 43.4%  | Medium |
-- [ ] 205 Isomorphic Strings                                    | 43.3%  | Easy   |
-- [ ] 146 LRU Cache                                             | 41.5%  | Medium |
+- [x] 560 Subarray Sum Equals K                                 | 43.4%  | Medium |
+- [x] 205 Isomorphic Strings                                    | 43.3%  | Easy   |
+- [x] 146 LRU Cache                                             | 41.5%  | Medium |
 - [ ] 135 Candy                                                 | 41.2%  | Hard   |
-- [ ] 76 Minimum Window Substring                               | 41.1%  | Hard   |
-- [ ] 2 Add Two Numbers                                         | 40.9%  | Medium |
-- [ ] 71 Simplify Path                                          | 40.8%  | Medium |
-- [ ] 20 Valid Parentheses                                      | 40.2%  | Easy   |
+- [x] 76 Minimum Window Substring                               | 41.1%  | Hard   |
+- [x] 2 Add Two Numbers                                         | 40.9%  | Medium |
+- [x] 71 Simplify Path                                          | 40.8%  | Medium |
+- [x] 20 Valid Parentheses                                      | 40.2%  | Easy   |
 - [ ] 124 Binary Tree Maximum Path Sum                          | 39.4%  | Hard   |
 - [ ] 680 Valid Palindrome II                                   | 39.4%  | Easy   |
-- [ ] 33 Search in Rotated Sorted Array                         | 39.3%  | Medium |
+- [x] 33 Search in Rotated Sorted Array                         | 39.3%  | Medium |
 - [ ] 2241 Design an ATM Machine                                | 39.1%  | Medium |
 - [ ] 356 Line Reflection                                       | 34.9%  | Medium |
 - [ ] 161 One Edit Distance                                     | 34.2%  | Medium |
-- [ ] 3 Longest Substring Without Repeating Characters          | 33.9%  | Medium |
-- [ ] 5 Longest Palindromic Substring                           | 32.6%  | Medium |
-- [ ] 98 Validate Binary Search Tree                            | 32.2%  | Medium |
+- [x] 3 Longest Substring Without Repeating Characters          | 33.9%  | Medium |
+- [x] 5 Longest Palindromic Substring                           | 32.6%  | Medium |
+- [x] 98 Validate Binary Search Tree                            | 32.2%  | Medium |
